@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TallerEnClase</string>
+    <string name="Borrar">Delete</string>
+    <string name="Cantidad">Quantity</string>
+    <string name="Cotizar">Quote</string>
+    <string name="EmpresaZXY">Business ZXY</string>
+    <string name="Genero">Gender</string>
+    <string name="Marca">Brand</string>
+    <string name="TipoZapatilla">Sneaker type</string>
+    <string name="ValorCantidad">Value amount</string>
+    <string name="ValorUnitario">"Unit value "</string>
+    <string name="Adidas">Adidas</string>
+    <string name="Clasico">Classic</string>
+    <string name="Femenino">Female</string>
+    <string name="Masculino">Male</string>
+    <string name="Nike">Nike</string>
+    <string name="Puma">Puma</string>
+    <string name="Zapatilla">Shoe</string>
+    <string name="Error_uno">Must fill field</string>
+    <string name="Error_dos">Quantity must be greater than 0</string>
+</resources>
